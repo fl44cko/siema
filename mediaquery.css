@@ -976,7 +976,7 @@
 
 
 
-@media only screen and (min-width: 350px) and (max-width: 399px)  {
+@media only screen and (min-width: 320px) and (max-width: 399px)  {
 
 
     html {
@@ -1049,7 +1049,7 @@
         z-index: 12;
         border-radius: 2rem;
         width: 100%;
-        height: 10%;
+        height: 15%;
         color: white;
         display: flex;
         justify-content: center;
